@@ -76,7 +76,7 @@ To run the project, follow these steps:
 2. Install the required dependencies (see below).
 3. Run the `main.py` script.
 
-```bash
+``bash
 git clone https://github.com/your-username/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
