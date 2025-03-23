@@ -82,7 +82,22 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 python main.py
 
-Contributing
+## Dependencies
+The project requires the following dependencies:
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+
+You can install them using the following command:
+
+pip install pandas numpy scikit-learn xgboost matplotlib seaborn joblib
+
+
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
 Note: This project is for educational purposes only. The dataset and models are simplified for demonstration purposes.
