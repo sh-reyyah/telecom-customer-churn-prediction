@@ -77,29 +77,12 @@ To run the project, follow these steps:
 3. Run the `main.py` script.
 
 ```bash
-git clone https://github.com/sh-reyyah/telecom-customer-churn-prediction.git
+git clone https://github.com/your-username/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 python main.py
-```
 
-## Dependencies
-The project requires the following dependencies:
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- matplotlib
-- seaborn
-- joblib
-
-You can install them using the following command:
-```sh
-   pip install -r requirements.txt
-   ```
-
-## Contributing
+Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
-**Note:** This project is for educational purposes only. The dataset and models are simplified for demonstration purposes.
-
+Note: This project is for educational purposes only. The dataset and models are simplified for demonstration purposes.
