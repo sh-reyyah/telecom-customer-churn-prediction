@@ -80,7 +80,7 @@ To run the project, follow these steps:
 git clone https://github.com/your-username/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
-python main.py
+python main.py ```
 
 ## Dependencies
 The project requires the following dependencies:
