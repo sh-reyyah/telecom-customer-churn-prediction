@@ -74,13 +74,13 @@ The project includes visualizations for:
 To run the project, follow these steps:
 1. Clone the repository.
 2. Install the required dependencies (see below).
-3. Run the `main.py` script.
+3. Run the `churn.ipynb` script.
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/sh-reyyah/telecom-customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
-python main.py
+python churn.ipynb
 ```
 
 ## Dependencies
